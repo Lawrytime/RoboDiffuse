@@ -1,3 +1,3 @@
 # RoboDiffuse
 
-## ![Move to Top Left Diagonal](assets/Extend_to_top_Left_Diagonal_Generated.gif)
+## ![Move to Top Left Diagonal](assets/Generated Motions/Extend to top Left Diagonal - Generated.gif)
