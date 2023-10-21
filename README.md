@@ -1,8 +1,6 @@
 # RoboDiffuse
 
-![](assets/Generated%20Motions/45_Degrees_to_the_Left%20-%20Generated.gif)
-
-![Generated GIF](assets/Generated%20Motions/Perform%20360%20Clockwise%20-%20Generated.gif)
+![](assets/Generated%20Motions/Perform%20360%20Clockwise%20-%20Generated.gif)
 
 <table>
   <tr>
@@ -17,3 +15,11 @@
   </tr>
 </table>
 
+
+<td align="center">
+      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Generated%20Motions/45_Degrees_to_the_Left%20-%20Generated.gif" width="700">
+      <p>Extend to top Left Diagonal</p>
+    </td>
+    
+
+[](assets/Generated%20Motions/45_Degrees_to_the_Left%20-%20Generated.gif)
