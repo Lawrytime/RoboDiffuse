@@ -1,24 +1,18 @@
 # RoboDiffuse
 
-![](assets/Generated%20Motions/Extend%20to%20top%20Left%20Diagonal%20-%20Generated.gif)
+![](assets/Generated%20Motions/45_Degrees_to_the_Left%20-%20Generated.gif)
 
-**Extend to top Left Diagonal**
-
-
-![Generated GIF](assets/Generated%20Motions/Extend%20to%20top%20Right%20Diagonal%20-%20Generated.gif)
-
-**Extend to top Right Diagonal**
-
+![Generated GIF](assets/Generated%20Motions/Perform%20360%20Clockwise%20-%20Generated.gif)
 
 <table>
   <tr>
     <td align="center">
-      <p> Extend to top Left Diagonal </p>
       <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Generated%20Motions/Extend%20to%20top%20Left%20Diagonal%20-%20Generated.gif" width="400">
+      <p>Extend to top Left Diagonal</p>
     </td>
     <td align="center">
-      <p> Extend to top Right Diagonal </p>
       <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Generated%20Motions/Extend%20to%20top%20Right%20Diagonal%20-%20Generated.gif" width="400">
+      <p>Extend to top Right Diagonal</p>
     </td>
   </tr>
 </table>
