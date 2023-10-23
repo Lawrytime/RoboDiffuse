@@ -14,6 +14,7 @@
 </table>
 
 
+
 <td align="center">
       <p>Prompting</p>
       <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Generated%20Motions/45_Degrees_to_the_Left%20-%20Generated.gif" width="600">
