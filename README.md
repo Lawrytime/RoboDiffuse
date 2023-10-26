@@ -13,6 +13,7 @@
   </tr>
 </table>
 
+
 ## Abstract
 
 The advent of diffusion models has spurred innovations across various domains, rendering them a crucial component in the generation of diverse and realistic data. This research embarks on a pioneering journey to harness the capabilities of diffusion models, specifically focusing on their application in generating 3D motion for robotic arms conditioned on natural language descriptions. The primary objective is to bridge the gap between human articulations and robotic motions, fostering seamless and intuitive interactions with robotic systems.
@@ -27,7 +28,6 @@ Despite the limitations related to dataset availability and diversity, RoboDiffu
 <td align="center">
       <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Generated%20Motions/45_Degrees_to_the_Left%20-%20Generated.gif" width="600">
     </td>
-
 
 
 
