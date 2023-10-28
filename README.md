@@ -23,11 +23,13 @@ The model, RoboDiffuse, integrates a transformer encoder to predict clean motion
 Despite the limitations related to dataset availability and diversity, RoboDiffuse demonstrated substantial promise, generating robotic arm motions with high fidelity. The findings of this research are anticipated to act as a catalyst, propelling further innovations in the field of robotics and contributing significantly to enhancing human-robot interactions.
 
 
+
 ### Prompting
 
 <td align="center">
       <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Generated%20Motions/45_Degrees_to_the_Left%20-%20Generated.gif" width="600">
     </td>
+
 
 
 
