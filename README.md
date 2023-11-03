@@ -5,29 +5,20 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Waving%20Hello.gif" width="400">
+      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Bend%20to%20the%20Right.gif" width="400">
       <p>Extend to top Left Diagonal</p>
     </td>
     <td align="center">
-      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Waving%20Hello.gif" width="400">
+      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Bend%20to%20the%20Left.gif" width="400">
       <p>Extend to top Right Diagonal</p>
     </td>
   </tr>
 </table>
 
 
-
-<div align="center">
-  <video width="320" height="240" controls>
-    <source src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Oscillate%20to%20wave%20Hello.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-
 ## Disclaimer 
 
-This work is produced by Timilehin Olusegun, under the supervision of Prof. Jonathan Loo, for MSc in Artificial Intelligence at the University of West London.
+This work is produced by **Timilehin Olusegun**, under the supervision of **Prof. Jonathan Loo**, for MSc in Artificial Intelligence at the **University of West London**.
 
 <table>
   <tr>
