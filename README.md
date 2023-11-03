@@ -1,5 +1,7 @@
 # RoboDiffuse
 
+![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Waving%20Hello.gif)
+
 <table>
   <tr>
     <td align="center">
@@ -18,9 +20,9 @@
 
 ## Disclaimer 
 
-
 This work is produced by Timilehin Olusegun, under the supervision of Prof. Jonathan Loo, for MSc in Artificial Intelligence at the University of West London.
 
+<table>
   <tr>
     <td align="center">
       <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Generated%20Motions/Extend%20to%20top%20Left%20Diagonal%20-%20Generated.gif" width="400">
