@@ -40,6 +40,8 @@ The model architecture integrates a transformer encoder that digests textual des
 
   - CLIP-based Textual Embedding: The model leverages CLIP-based textual embeddings to capture the semantic nuances of the input text, which significantly enhances the accuracy of the text-to-motion translation.
 
+![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/embedding_space.png)
+
 
 ## Performance Evaluation
 
