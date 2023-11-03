@@ -17,6 +17,13 @@
 
 
 
+<div align="center">
+  <video width="320" height="240" controls>
+    <source src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Oscillate%20to%20wave%20Hello.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 
 ## Disclaimer 
 
