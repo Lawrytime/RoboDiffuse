@@ -45,7 +45,14 @@ The model architecture integrates a transformer encoder that digests textual des
 
 ## 
 
-![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/RoboDiffuse.png)
+
+<table>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/RoboDiffuse.png" width="500">
+    </td>
+  </tr>
+</table>
 
 ## <p align="center">RoboDiffuse Framework.</p>
 
@@ -81,12 +88,17 @@ While RoboDiffuse marks a significant step forward, there's a vast scope for fur
 
 ## <p align="center">Prompting.</p>
 
-<td align="center">
-      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Generated%20Motions/45_Degrees_to_the_Left%20-%20Generated.gif" width="600">
+<table>
     </td>
+    <td align="center">
+      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Generated%20Motions/45_Degrees_to_the_Left%20-%20Generated.gif" width="500">
+    </td>
+  </tr>
+</table>
+
 
 
 For further inquiries or collaborations, feel free to reach out to @Lawrytime or Professor Jonathan Loo at jonathan.loo@uwl.ac.uk.
 
 
-![](assets/Generated%20Motions/Perform%20360%20Clockwise%20-%20Generated.gif)  ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Waving%20Hello.gif)
+#![](assets/Generated%20Motions/Perform%20360%20Clockwise%20-%20Generated.gif)  ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Waving%20Hello.gif)
