@@ -43,7 +43,11 @@ RoboDiffuse employs advanced diffusion processes alongside a transformer encoder
 
 The model architecture integrates a transformer encoder that digests textual descriptions and generates initial motion sequences. These sequences are further refined by a diffusion process, ensuring the generated motions are coherent and reflective of the input textual descriptions. The entire model is conditioned on CLIP-based textual embeddings which encapsulate the semantic essence of the input text, facilitating a more accurate translation into robotic motions.
 
+## 
+
 ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/RoboDiffuse.png)
+
+## <p align="center">RoboDiffuse Framework.</p>
 
 
 ## Key Features
@@ -53,6 +57,8 @@ The model architecture integrates a transformer encoder that digests textual des
   - Diffusion Process Refinement: The integration of a diffusion process refines the generated motion sequences, ensuring they are smooth and accurately reflective of the textual instructions.
 
   - CLIP-based Textual Embedding: The model leverages CLIP-based textual embeddings to capture the semantic nuances of the input text, which significantly enhances the accuracy of the text-to-motion translation.
+
+## 
 
 ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/embedding_space.png)
 
