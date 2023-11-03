@@ -41,6 +41,19 @@ The model architecture integrates a transformer encoder that digests textual des
   - CLIP-based Textual Embedding: The model leverages CLIP-based textual embeddings to capture the semantic nuances of the input text, which significantly enhances the accuracy of the text-to-motion translation.
 
 
+## Performance Evaluation
+
+RoboDiffuse has undergone rigorous evaluation using both quantitative and qualitative metris. The evaluations reveal a high degree of proficiency in generating motions that accurately reflect the input textual descriptions. Additionally, the model exhibits a promising level of adaptability to real-world dynamics, which is crucial for practical deployments.
+
+## Potential Applications
+
+The promise of RoboDiffuse extends across various domains where intuitive human-robot interaction is crucial. Whether it's in industrial settings, healthcare, or domestic applications, the model holds the potential to significantly enhance the ease and effectiveness of human-robot interactions.
+
+## Future Directions
+
+While RoboDiffuse marks a significant step forward, there's a vast scope for further refinement and expansion. Future work may delve into exploring more geometric losses, better noise schedulers, and optimizing model architectures to unlock the full potential of text-to-robotic motion models. Moreover, incorporating real-time sensory feedback and reinforcement learning approaches could further bolster the model's performance and adaptability to dynamic environments.
+
+
 ### Prompting
 
 <td align="center">
