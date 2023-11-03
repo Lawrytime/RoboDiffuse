@@ -1,16 +1,12 @@
 # RoboDiffuse
 
-![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Waving%20Hello.gif)
-
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Bend%20to%20the%20Right.gif" width="400">
-      <p>Extend to top Left Diagonal</p>
+      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Bend%20to%20the%20Left.gif" width="400">
     </td>
     <td align="center">
-      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Bend%20to%20the%20Left.gif" width="400">
-      <p>Extend to top Right Diagonal</p>
+      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Bend%20to%20the%20Right.gif" width="400">
     </td>
   </tr>
 </table>
@@ -83,4 +79,4 @@ While RoboDiffuse marks a significant step forward, there's a vast scope for fur
 
 
 
-![](assets/Generated%20Motions/Perform%20360%20Clockwise%20-%20Generated.gif)
+![](assets/Generated%20Motions/Perform%20360%20Clockwise%20-%20Generated.gif)  ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Waving%20Hello.gif)
