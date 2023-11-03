@@ -1,6 +1,6 @@
 # RoboDiffuse
 
-!()[https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Oscillate%20to%20wave%20Hello.mp4]
+![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Oscillate%20to%20wave%20Hello.mp4)
 
 
 ## Disclaimer 
