@@ -55,6 +55,7 @@ The model architecture integrates a transformer encoder that digests textual des
   - CLIP-based Textual Embedding: The model leverages CLIP-based textual embeddings to capture the semantic nuances of the input text, which significantly enhances the accuracy of the text-to-motion translation.
 
 ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/embedding_space.png)
+## <p align="Textual Embeddings Visualisation">Prompting.</p>
 
 
 ## Performance Evaluation
@@ -70,13 +71,15 @@ The promise of RoboDiffuse extends across various domains where intuitive human-
 While RoboDiffuse marks a significant step forward, there's a vast scope for further refinement and expansion. Future work may delve into exploring more geometric losses, better noise schedulers, and optimizing model architectures to unlock the full potential of text-to-robotic motion models. Moreover, incorporating real-time sensory feedback and reinforcement learning approaches could further bolster the model's performance and adaptability to dynamic environments.
 
 
-### Prompting
+
+## <p align="center">Prompting.</p>
 
 <td align="center">
       <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Generated%20Motions/45_Degrees_to_the_Left%20-%20Generated.gif" width="600">
     </td>
 
 
+For further inquiries or collaborations, feel free to reach out to @Lawrytime or Professor Jonathan Loo at jonathan.loo@uwl.ac.uk.
 
 
 ![](assets/Generated%20Motions/Perform%20360%20Clockwise%20-%20Generated.gif)  ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Waving%20Hello.gif)
