@@ -46,17 +46,11 @@ The model architecture integrates a transformer encoder that digests textual des
 ## 
 
 
-<table>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/RoboDiffuse.png" width="500">
-    </td>
-  </tr>
-</table>
+![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/RoboDiffuse.png)
 
 ## <p align="center">RoboDiffuse Framework.</p>
 
-
+## 
 ## Key Features
 
   - Text-to-Motion Translation: RoboDiffuse is adept at translating high-level textual instructions into precise robotic arm motions, facilitating intuitive human-robot interaction.
@@ -71,7 +65,7 @@ The model architecture integrates a transformer encoder that digests textual des
 
 ## <p align="center">Textual Embeddings Visualisation.</p>
 
-
+## 
 ## Performance Evaluation
 
 RoboDiffuse has undergone rigorous evaluation using both quantitative and qualitative metris. The evaluations reveal a high degree of proficiency in generating motions that accurately reflect the input textual descriptions. Additionally, the model exhibits a promising level of adaptability to real-world dynamics, which is crucial for practical deployments.
@@ -88,17 +82,11 @@ While RoboDiffuse marks a significant step forward, there's a vast scope for fur
 
 ## <p align="center">Prompting.</p>
 
-<table>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Generated%20Motions/45_Degrees_to_the_Left%20-%20Generated.gif" width="500">
-    </td>
-  </tr>
-</table>
+![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Generated%20Motions/45_Degrees_to_the_Left%20-%20Generated.gif)
 
-
+## 
 
 For further inquiries or collaborations, feel free to reach out to @Lawrytime or Professor Jonathan Loo at jonathan.loo@uwl.ac.uk.
 
 
-#![](assets/Generated%20Motions/Perform%20360%20Clockwise%20-%20Generated.gif)  ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Waving%20Hello.gif)
+![](assets/Generated%20Motions/Perform%20360%20Clockwise%20-%20Generated.gif)  ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Waving%20Hello.gif)
