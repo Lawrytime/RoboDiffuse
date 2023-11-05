@@ -80,7 +80,7 @@ While RoboDiffuse marks a significant step forward, there's a vast scope for fur
 
 
 
-## <p align="center">Prompting.</p>
+## <p align="center">Sample Prompts.</p>
 
 ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Generated%20Motions/45_Degrees_to_the_Left%20-%20Generated.gif) ![](assets/Generated%20Motions/Perform%20360%20Clockwise%20-%20Generated.gif)
 
