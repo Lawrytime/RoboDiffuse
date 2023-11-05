@@ -67,9 +67,20 @@ The model architecture integrates a transformer encoder that digests textual des
 ## <p align="center">Textual Embeddings Visualisation.</p>
 
 
+## Simulation Enviroments
+
+![ROS](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/ros_env.png)
+
+![MoveIt](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/moveit.png)
+
+
 ## Performance Evaluation
 
 RoboDiffuse has undergone rigorous evaluation using both quantitative and qualitative metris. The evaluations reveal a high degree of proficiency in generating motions that accurately reflect the input textual descriptions. Additionally, the model exhibits a promising level of adaptability to real-world dynamics, which is crucial for practical deployments.
+
+### Runs
+
+![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Wandb_.png)
 
 ## Potential Applications
 
