@@ -1,4 +1,4 @@
-# RoboDiffusion: 
+# RoboDiffusion 
 ## A Natural Language Driven Robotic Arm Motion Generation using Diffusion Model
 
 <table>
