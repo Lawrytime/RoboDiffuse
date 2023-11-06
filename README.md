@@ -32,7 +32,6 @@ This work is produced by **Timilehin Olusegun**, under the supervision of **Prof
 
 
 
-
 ## Introduction
 
 The RoboDiffuse model stems from a compelling endeavor to bridge the gap between human natural language and robotic motion generation. In a world where robotics is rapidly evolving, having a robotic system that understands and accurately interprets human commands into precise motions is pivotal. This model is a stride towards enhancing the intuitive interaction between humans and robots, paving the way for more dynamic and responsive robotic systems.
