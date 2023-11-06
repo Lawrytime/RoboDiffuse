@@ -55,11 +55,11 @@ The model architecture integrates a transformer encoder that digests textual des
 ## 
 ## Key Features
 
-  - Text-to-Motion Translation: RoboDiffuse is adept at translating high-level textual instructions into precise robotic arm motions, facilitating intuitive human-robot interaction.
-
-  - Diffusion Process Refinement: The integration of a diffusion process refines the generated motion sequences, ensuring they are smooth and accurately reflective of the textual instructions.
-
-  - CLIP-based Textual Embedding: The model leverages CLIP-based textual embeddings to capture the semantic nuances of the input text, which significantly enhances the accuracy of the text-to-motion translation.
+  - **Natural Language Understanding:** Interprets complex instructions given in human language.
+  - **Generative Motion Modeling:** Generates 3D motion sequences for a robotic arm based on textual descriptions.
+  - **Diffusion-Based Refinement:** Utilizes a diffusion process to improve the quality and accuracy of motion sequences.
+  - **CLIP-Based Conditioning:** Employs Contrastive Language-Image Pretraining (CLIP) embeddings to condition the generative process.
+  - **Custom Dataset:** Features a meticulously annotated dataset specifically designed for Text-to-Robotic Motion tasks.
 
 ## 
 
