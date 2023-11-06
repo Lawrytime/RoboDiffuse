@@ -59,12 +59,12 @@ The model architecture integrates a transformer encoder that digests textual des
   - **Generative Motion Modeling:** Generates 3D motion sequences for a robotic arm based on textual descriptions.
   - **Diffusion-Based Refinement:** Utilizes a diffusion process to improve the quality and accuracy of motion sequences.
   - **CLIP-Based Conditioning:** Employs Contrastive Language-Image Pretraining (CLIP) embeddings to condition the generative process.
+  -   - **Custom Dataset:** Features a meticulously annotated dataset specifically designed for Text-to-Robotic Motion tasks.
 
 ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/embedding_space.png)
 
 ## <p align="center">Textual Embeddings Visualisation.</p>
 
-  - **Custom Dataset:** Features a meticulously annotated dataset specifically designed for Text-to-Robotic Motion tasks.
 
 ## Simulation Enviroments
 
