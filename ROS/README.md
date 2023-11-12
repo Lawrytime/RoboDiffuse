@@ -75,7 +75,7 @@ In another terminal source the setup file and then run a Python listener:
 
 Install the driver using
 
-        sudo apt-get install ros-humble-ur
+    sudo apt-get install ros-humble-ur
 
 
 ## ROS2 Control
@@ -83,3 +83,6 @@ Install the driver using
     sudo apt-get install ros-humble-ros2-control
 
     source /opt/ros/humble/setup.bash
+
+
+## `This description sets up the ROS2 Humble Enviroment with the required add on required to run RoboDiffuse on ROS2, Ubuntu 22.04`
