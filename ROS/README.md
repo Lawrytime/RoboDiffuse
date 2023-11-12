@@ -1,7 +1,7 @@
 ROS2 (Humble) Setup
 =========================
 
-1[](https://docs.ros.org/en/humble/_static/humble-small.png)
+![](https://docs.ros.org/en/humble/_static/humble-small.png)
 
 ##     Set locale
 
