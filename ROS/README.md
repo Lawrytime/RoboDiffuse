@@ -46,3 +46,40 @@ Update your apt repository caches after setting up the repositories.
 Development tools: Compilers and other tools to build ROS packages
 
     sudo apt install ros-dev-tools
+
+## Environment setup
+
+Sourcing the setup script
+
+Set up your environment by sourcing the following file.
+
+`source /opt/ros/humble/setup.bash`
+
+
+## Sample: Talker-listener
+
+In one terminal, source the setup file and then run a C++ talker:
+
+    source /opt/ros/humble/setup.bash
+    ros2 run demo_nodes_cpp talker
+
+In another terminal source the setup file and then run a Python listener:
+
+    source /opt/ros/humble/setup.bash
+    ros2 run demo_nodes_py listener
+
+
+# Universal Robots ROS2 Driver
+
+### [Humble Branch](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/tree/humble)
+
+Install the driver using
+
+        sudo apt-get install ros-humble-ur
+
+
+## ROS2 Control
+
+    sudo apt-get install ros-humble-ros2-control
+
+    source /opt/ros/humble/setup.bash
