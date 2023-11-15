@@ -91,4 +91,4 @@ Install the driver using
     source /opt/ros/humble/setup.bash
 
 
-## `This description sets up the ROS2 Humble Enviroment with the required add on required to run RoboDiffuse on ROS2, Ubuntu 22.04`
+## `This description sets up the ROS2 Humble Enviroment with the essential add-ons required to run RoboDiffuse on ROS2, Ubuntu 22.04`
