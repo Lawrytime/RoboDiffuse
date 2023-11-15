@@ -19,6 +19,7 @@ Make sure you have a locale which supports UTF-8.
     locale  # verify settings
 
 
+
 ## Setup Sources
 
 Add the ROS 2 apt repository to your system.
