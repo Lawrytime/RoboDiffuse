@@ -5,6 +5,9 @@ ROS2 (Humble) Setup
 ![](https://roboticsbackend.com/wp-content/uploads/2022/04/ros_logo.png) ![](https://docs.ros.org/en/humble/_static/humble-small.png) 
 
 
+## `This description sets up the ROS2 Humble Enviroment with the essential add-ons required to run RoboDiffuse on ROS2, Ubuntu 22.04`
+
+
 ##     Set locale
 
 Make sure you have a locale which supports UTF-8.
@@ -91,4 +94,4 @@ Install the driver using
     source /opt/ros/humble/setup.bash
 
 
-## `This description sets up the ROS2 Humble Enviroment with the essential add-ons required to run RoboDiffuse on ROS2, Ubuntu 22.04`
+## `✅✅✅`
