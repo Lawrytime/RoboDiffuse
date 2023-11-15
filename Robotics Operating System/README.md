@@ -11,8 +11,6 @@ ROS2 (Humble) Setup
 
 ##     Set locale
 
-Make sure you have a locale which supports UTF-8.
-
     locale  # check for UTF-8
 
     sudo apt update && sudo apt install locales
