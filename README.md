@@ -1,6 +1,8 @@
 # RoboDiffusion 
 ## A Natural Language Driven Robotic Arm Motion Generation using Diffusion Model
 
+![Uploading RobotDancingDanceGIF.gif…]()
+
 
 <table>
   <tr>
