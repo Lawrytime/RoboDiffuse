@@ -94,6 +94,8 @@ Install the driver using
     source /opt/ros/humble/setup.bash
 
 
-Further instructions to set up RVIZ to receive commmands will be appended as code updates are made.
+### Further instructions to set up RVIZ to receive commmands will be appended as code updates are made.
+
+## Thanks.
 
 #        ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
