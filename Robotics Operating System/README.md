@@ -96,5 +96,4 @@ Install the driver using
 
 
 
-
 #        ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
