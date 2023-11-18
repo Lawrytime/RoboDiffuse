@@ -1,0 +1,160 @@
+Lower left diagonal movement
+Advance 45 degrees in the forward direction
+Move forward at a 45-degree angle
+Lean Left Descendingly
+Arch backward and downward
+Flex Left Descendingly
+Lean right descendingly
+Lean to the right
+Bend Right
+Move diagonally to the right
+Flex Right Downward
+Stretch rightward
+Strech leftward
+Move diagonally to the left
+Descend diagonally to the left
+Descend diagonally to the right
+Flex forward descendingly
+Arch forward and downward
+Upper right diagonal movement
+Lean Left Descendingly
+Move downward in a clockwise helical path
+Arch backward and downward
+Descend in a counter-clockwise spiral
+Lean right descendingly
+Lean to the left
+Bend Left
+Lower left diagonal movement
+Lean backward
+Bend Backward
+Extend to the Left
+Move downward in a clockwise helical path
+Rearward Descent
+Extend to the Left
+Bend Left Downwards
+Lower right diagonal movement
+Bend Right
+Lean to the right
+Move diagonally to the right
+Upper left diagonal movement
+Lean backward
+Bend Backward
+Upper left diagonal movement
+Rearward Descent
+Arch backward and downward
+Descend in a counter-clockwise spiral
+draw a circle
+Flex backward descending
+Flex Forward Descendingly
+Descend in a clockwise spiral
+Extend to the Right
+Bend right descendingly
+Extend to the Left
+Strech leftward
+Lower rearward
+Lean to the right
+Lean backward
+Bend Right
+Bend Backward
+Bend Left
+Flex backward descending
+Lean to the left
+Lower left diagonal movement
+Rotate 45 degrees backwards
+Move backward at a 45-degree angle
+Descend diagonally to the left
+Lower rearward
+Extend to the Right
+Move diagonally to the left
+Move downward in a counter-clockwise helical path
+Flex Forward Descendingly
+Bend Left Downwards
+Stretch rightward
+Upper left diagonal movement
+Lower right diagonal movement
+Descend diagonally to the right
+Upper right diagonal movement
+Extend to the Right
+Move diagonally to the right
+Bend right descendingly
+Flex backward descending
+Flex Forward Descendingly
+Perform a 360 clockwise
+Lower left diagonal movement
+draw a circle vertically
+Bend Backward
+Lean backward
+Lean forward
+Bend Forward
+Descend diagonally to the left
+Lower right diagonal movement
+Frontal Descent
+Bend Left
+Lean to the left
+Extend to the Left
+Strech leftward
+Stretch rightward
+Bend Forward
+Lean forward
+Upper left diagonal movement
+Home Position
+Descend diagonally to the left
+Bend Right
+Lean to the right
+Descend in a clockwise spiral
+Move diagonally to the left
+Rearward Descent
+Move forward at a 45-degree angle
+Advance 45 degrees in the forward direction
+Lower frontal
+Arch forward and downward
+Flex forward descendingly
+Descend diagonally to the right
+Home Ground Back
+Home Ground Front
+Lower frontal
+Perform a 360 clockwise
+Move diagonally to the right
+Frontal Descent
+Move downward in a counter-clockwise helical path
+Home Ground Back
+Lower right diagonal movement
+Extend to the Right
+Bend Left
+Lean to the left
+Descend diagonally to the right
+Upper right diagonal movement
+Stretch rightward
+Strech leftward
+Move diagonally to the left
+Horizontal Counter Clockwise Circle
+Home Ground Front
+Arch forward and downward
+Flex forward descendingly
+Upper right diagonal movement
+Horizontal Clockwise Circle
+Bend Forward
+Lean forward
+Advance 45 degrees in the forward direction
+Move forward at a 45-degree angle
+Perform a 360 anti clockwise
+Horizontal Counter Clockwise Circle
+Move backward at a 45-degree angle
+Rotate 45 degrees backwards
+Oscillating to say hello
+Greeting with a Wave
+Default Home
+Bend Forward
+Lean forward
+Extend Vertically
+Home Ground Front
+Frontal Descent
+Move backward at a 45-degree angle
+Rotate 45 degrees backwards
+Home Ground Back
+Advance 45 degrees in the forward direction
+Move forward at a 45-degree angle
+Horizontal Clockwise Circle
+Perform a 360 anti clockwise
+Rotate 45 degrees backwards
+Move backward at a 45-degree angle
