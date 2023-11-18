@@ -54,7 +54,7 @@ The model architecture integrates a transformer encoder that digests textual des
 
 ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/RoboDiffuse.png)
 
-## <p align="center">RoboDiffuse Framework.</p>
+## <p align="center">RoboDiffuse Framework</p>
 
 ## 
 ## Key Features
