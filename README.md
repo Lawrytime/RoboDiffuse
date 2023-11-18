@@ -81,7 +81,7 @@ The model architecture integrates a transformer encoder that digests textual des
 ### ROS Visualization (RViz)
 ![ROS](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/ros_env.png)
 
-### MoveIt
+### MoveIt (Motion Planning)
 ![MoveIt](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/moveit.png)
 
 
