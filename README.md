@@ -78,7 +78,7 @@ The model architecture integrates a transformer encoder that digests textual des
 
 ## Simulation Enviroments
 
-### ROS (RviZ)
+### ROS Visualization (RViz)
 ![ROS](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/ros_env.png)
 
 ### MoveIt
