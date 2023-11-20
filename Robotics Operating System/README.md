@@ -2,8 +2,7 @@ ROS2 (Humble) Setup
 =========================
 
 
-![](https://roboticsbackend.com/wp-content/uploads/2022/04/ros_logo.png) ![](https://docs.ros.org/en/humble/_static/humble-small.png) 
-
+![](https://roboticsbackend.com/wp-content/uploads/2022/04/ros_logo.png) 
 ## 
 
 ## `This description sets up the ROS2 Humble Enviroment with the essential add-ons required to run RoboDiffuse on ROS2, Ubuntu 22.04`
