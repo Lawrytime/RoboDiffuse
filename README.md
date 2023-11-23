@@ -36,12 +36,11 @@ This work is produced by **Timilehin Olusegun**, under the supervision of **Prof
 ## Content
 - [Introduction](#introduction)
 - [Model Overview](#model-overview)
-- [Key Features](#key)
+- [Key Features](#key-features)
 - [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Training and Evaluation](#training-and-evaluation)
-- [Results](#results)
-- [Saliency Maps](#saliency-maps)
+- [Simulation Enviroments](#simulation-enviroments)
+- [RoboDiffuse Framework](#roboDiffuse-framework)
+- [Sample Prompts](#sample-prompts)
 
 ##  
 
@@ -79,6 +78,7 @@ The model architecture integrates a transformer encoder that digests textual des
 ## <p align="center">RoboDiffuse Framework</p>
 
 ## 
+
 ## Key Features
 
   - **Natural Language Understanding:** Interprets complex instructions given in human language.
