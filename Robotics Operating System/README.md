@@ -9,6 +9,14 @@ ROS2 (Humble) Setup
 ## `Setting up the ROS2 (Humble) Enviroment with the essential add-ons required to run RoboDiffuse on ROS2, Ubuntu 22.04`
 
 
+## Content
+- [Set locale](#set-locale)
+- [Setup Sources](#setup-sources)
+- [Key Features](#key-features)
+- [Install ROS 2 packages](#install-ros-2-packages)
+- [Simulation Enviroments](#universal-robots-ros2-driver)
+- [ROS2 Control](#ros2-control)
+
 
 ##     Set locale
 
