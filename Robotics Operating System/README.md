@@ -12,9 +12,8 @@ ROS2 (Humble) Setup
 ## Content
 - [Set locale](#set-locale)
 - [Setup Sources](#setup-sources)
-- [Key Features](#key-features)
 - [Install ROS 2 packages](#install-ros-2-packages)
-- [Simulation Enviroments](#universal-robots-ros2-driver)
+- [Universal Robots ROS2 Driver](#universal-robots-ros2-driver)
 - [ROS2 Control](#ros2-control)
 
 
