@@ -30,7 +30,6 @@ ROS2 (Humble) Setup
 
 
 
-
 ## Setup Sources
 
 Add the ROS 2 apt repository to your system.
