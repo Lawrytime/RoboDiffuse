@@ -32,7 +32,6 @@ ROS2 (Humble) Setup
 
 
 
-
 ##     Set locale
 
     locale  # check for UTF-8
