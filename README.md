@@ -1,7 +1,5 @@
 # RoboDiffusion: 
-## A Natural Language Driven Robotic Arm Motion Generation using Diffusion Model
-
-
+## A Natural Language Driven Robotic Arm Motion Generation using Diffusion Mode
 
 
 ##  
