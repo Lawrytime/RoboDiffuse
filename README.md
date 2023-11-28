@@ -1,6 +1,12 @@
 # RoboDiffusion: 
 ## A Natural Language Driven Robotic Arm Motion Generation using Diffusion Model
 
+
+
+
+
+
+
 ##  
 
 ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/RoboDiffuse.png)
