@@ -99,7 +99,7 @@ Install the driver using
 
     sudo apt-get install ros-humble-ros2-control
 
-    source /opt/ros/humble/setup.bash
+    source /opt/ros/humble/setup.sh
 
 
 ### Further instructions to set up RVIZ to receive commmands will be appended as code updates are made.
