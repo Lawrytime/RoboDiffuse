@@ -463,7 +463,7 @@ webencodings==0.5.1
 widgetsnbextension==4.0.9
 wrapt==1.13.3
 xacro==2.0.9
-# xdg==5
+xdg==5
 xkit==0.0.0
 zipp==1.0.0
 zope.interface==6.0
