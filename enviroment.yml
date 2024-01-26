@@ -114,4 +114,4 @@ dependencies:
       - triton==2.0.0
       - typing-extensions==4.8.0
       - werkzeug==2.3.7
-prefix: /home/lawrytime/miniconda3
+prefix: /home/lawrytime/
