@@ -129,7 +129,7 @@ While RoboDiffuse marks a significant step forward, there's a vast scope for fur
 
 ## 
 
-For further inquiries or collaborations, feel free to reach out to @Lawrytime or Professor Jonathan Loo at jonathan.loo@uwl.ac.uk.
+For further inquiries, feel free to reach out to @Lawrytime or Professor Jonathan Loo at jonathan.loo@uwl.ac.uk.
 
 
 
