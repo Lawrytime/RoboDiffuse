@@ -129,9 +129,6 @@ While RoboDiffuse marks a significant step forward, there's a vast scope for fur
 
 ## 
 
-For further inquiries, feel free to reach out to @Lawrytime or Professor Jonathan Loo at jonathan.loo@uwl.ac.uk.
-
-
 
 ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Waving%20Hello.gif) ![](assets/Generated%20Motions/Perform%20360%20Clockwise%20-%20Generated.gif) ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Waving%20Hello.gif)
 
