@@ -104,6 +104,4 @@ Install the driver using
 
 ### Further instructions to set up RVIZ to receive commmands will be appended as code updates are made.
 
-## Thanks.
-
 #        ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
