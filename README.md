@@ -5,8 +5,6 @@
 
 ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/RoboDiffuse.png)
 
-### Framework
-
 
 ##  
 
