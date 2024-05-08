@@ -6,7 +6,9 @@ ROS2 (Humble) Setup
 
 ## 
 
-## `Setting up the ROS2 (Humble) Enviroment with the essential add-ons required to run RoboDiffuse on ROS2, Ubuntu 22.04`
+## `Setting up the ROS2 (Humble) Enviroment with the essential add-ons required to run RoboDiffuse on:`
+
+## `ROS2, Ubuntu 22.04`
 
 ### Content
 - [Set locale](#set-locale)
