@@ -86,7 +86,7 @@ In another terminal source the setup file and then run a Python listener:
     ros2 run demo_nodes_py listener
 
 
-# Universal Robots ROS2 Driver
+# UR ROS2 Driver
 
 ![](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/blob/main/ur_robot_driver/doc/installation/initial_setup_images/e-Series.jpg)
 
