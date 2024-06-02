@@ -1,6 +1,6 @@
-## Sample Ground Truth
+## Some Ground Truth Motions
 
-## Sample Generated Motions
+## Some Generated Motions
 
 ![](https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Waving%20Hello.gif)
 
