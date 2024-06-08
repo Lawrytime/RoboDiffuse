@@ -16,7 +16,6 @@ ROS2 Setup
 - [Install ROS 2 packages](#install-ros-2-packages)
 - [Universal Robots ROS2 Driver](#universal-robots-ros2-driver)
 - [ROS2 Control](#ros2-control)
-- ✅✅✅
 
 
 ##     Set locale
