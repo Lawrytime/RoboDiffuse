@@ -1,4 +1,4 @@
-ROS2 SETUP UBUNTU 22.04
+ROS2 SETUP (Humble)
 ===========
 
 
