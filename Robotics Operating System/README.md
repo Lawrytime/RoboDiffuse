@@ -1,4 +1,4 @@
-ROS2 SETUP (Humble)
+ROS2 SETUP
 ===========
 
 
