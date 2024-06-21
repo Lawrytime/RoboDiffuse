@@ -1,4 +1,4 @@
-# ROS2 SETUP ON UBUNTU
+# ROS2 SETUP ON UBUNTU 22.04
 ==========
 
 
